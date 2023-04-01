@@ -1,6 +1,6 @@
 <?php
 
-namespace asmoday74\ckeditor5;
+namespace chuzzlik\ckeditor5;
 
 use Yii;
 use yii\helpers\Json;

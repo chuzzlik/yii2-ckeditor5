@@ -1,5 +1,5 @@
 {
-    "name": "asmoday74/yii2-ckeditor5",
+    "name": "chuzzlik/yii2-ckeditor5",
     "description": "CKEditor 5 WYSIWYG widget for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","ckeditor 5"],
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "asmoday74\\ckeditor5\\": ""
+            "chuzzlik\\ckeditor5\\": ""
         }
     }
 }
