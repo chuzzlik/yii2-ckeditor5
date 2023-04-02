@@ -9,6 +9,7 @@ class CKEditorAssets extends AssetBundle
 
     public $sourcePath = '@vendor/chuzzlik/yii2-ckeditor5/assets/';
     public $css = [
+		'styles.css'
     ];
 
     public $js = [
